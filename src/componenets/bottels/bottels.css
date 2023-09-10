@@ -1,0 +1,9 @@
+.bottels img{
+    width: 200px;
+}
+.bottels button{
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+    border-radius: 20px;
+}

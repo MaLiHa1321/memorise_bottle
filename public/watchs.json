@@ -1,0 +1,21 @@
+[
+    {
+      "device": "Smartwatch Model X",
+      "steps": 5000,
+      "calories_burned": 320,
+      "distance": 4.2
+    },
+    {
+      "device": "Smartwatch Model Y",
+      "steps": 7500,
+      "calories_burned": 450,
+      "distance": 6.3
+    },
+    {
+      "device": "Smartwatch Model Z",
+      "steps": 6000,
+      "calories_burned": 380,
+      "distance": 5.1
+    }
+  ]
+  

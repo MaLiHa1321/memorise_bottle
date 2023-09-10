@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.bottels-Container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
